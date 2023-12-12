@@ -7,15 +7,12 @@
 <br> **Grado y**** Grupo**: 3ºB
 <br>**Asesor** :Sebastián Gonzales Zepeda
 
-**Abstrac**
 
+**Resumen**
 En este proyecto se buscó resolver la problemática de clasificar una gran cantidad de datos sobre ciclones, con respecto a la velocidad de sus vientos.
 
 Estos datos fueron tomados entre los años 2020 a 2023 donde se recaudaron 101 datos que fueron clasificados por un programa creado con anterioridad para resolver esta problemática.
-
-**Resumen**
-
-Las clasificaciones de los ciclones según la velocidad de sus vientos proporcionan una manera crucial de evaluar su potencial impacto por lo que en el presente proyecto realizamos un programa para obtener las categorías de cada ciclón con base a la velocidad de sus vientos registrada en los últimos tres años. Obtuvimos la información en páginas confiables donde se nos proporcionaban el nombre del ciclón y sus velocidades, generando una tabla de Excel con estos siendo 101 datos entre ciclones y tormentas tropicales en el transcurso de estos últimos 3 años.
+Las clasificaciones de los ciclones según la velocidad de sus vientos proporcionan una manera crucial de evaluar su potencial impacto por lo que en el presente proyecto realizamos un programa para obtener las categorías de cada ciclón con base a la velocidad de sus vientos. Obtuvimos la información en páginas confiables donde se nos proporcionaban el nombre del ciclón y sus velocidades, generando una tabla de Excel con estos.
 
 También se investigaron las diversas categorías y su clasificación en velocidad de los vientos para que el programa pudiera clasificarlos con base a esos datos.
 
