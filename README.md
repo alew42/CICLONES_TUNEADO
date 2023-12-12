@@ -257,25 +257,24 @@ Este código que elaboramos para el proyecto lee los datos proporcionados en el 
 
 1. Como resultado el código funciono como esperábamos, insertando nuestro archivo Excel y generando la nueva columna con la clasificación de categoría de cada uno.
 
-![](RackMultipart20231212-1-q2wx4i_html_4314e8a8ede60606.png)
+![resultados1](https://github.com/alew42/CICLONES_TUNEADO/assets/152411306/8c6f83ec-32d6-4a02-aa39-06a0f06328b2)
 
 1. Además de entregarnos de manera visual los datos como resultado del programa nos genera un nuevo archivo Excel con una nueva columna de categorías.
 
-![](RackMultipart20231212-1-q2wx4i_html_f133895324d5fba2.png)
+![resultados2](https://github.com/alew42/CICLONES_TUNEADO/assets/152411306/1401890c-3b86-4839-aeb0-026728667e19)
 
 1. Y como ultimo hacemos la comparación de las tablas de datos para comprobar el código ejecutado
 
-![Shape1](RackMultipart20231212-1-q2wx4i_html_1c8b49334311785.gif) ![Shape2](RackMultipart20231212-1-q2wx4i_html_16b4daa6cba717af.gif) ![](RackMultipart20231212-1-q2wx4i_html_30bfc8fb11517007.png) ![](RackMultipart20231212-1-q2wx4i_html_3d58833e4ff5e94d.png)
+![c 1](https://github.com/alew42/CICLONES_TUNEADO/assets/152411306/86a1d2df-9941-4076-a5f0-d2a7cc0cb9ac) 
+![c 2](https://github.com/alew42/CICLONES_TUNEADO/assets/152411306/1dded80b-2d3b-42e3-8454-3973c9da099e) 
+![c1](https://github.com/alew42/CICLONES_TUNEADO/assets/152411306/be790c11-c610-4be6-94be-374409e21fad)
+![c1 2](https://github.com/alew42/CICLONES_TUNEADO/assets/152411306/54b2d153-ee87-4cf6-ab53-a5995cc24148)
 
-![](RackMultipart20231212-1-q2wx4i_html_449f0ddd72386859.png)
+![c2](https://github.com/alew42/CICLONES_TUNEADO/assets/152411306/a29647dc-1260-49ca-afd1-74a454456e4e)
 
-![](RackMultipart20231212-1-q2wx4i_html_16b5fa44de3ad3ca.png) ![Shape3](RackMultipart20231212-1-q2wx4i_html_420fa0f322f55693.gif)
+![c2 2](https://github.com/alew42/CICLONES_TUNEADO/assets/152411306/9a4f94f7-b371-4782-a3aa-8e46bccdb0f0)
 
-![](RackMultipart20231212-1-q2wx4i_html_8ed23b02146e558c.png)
 
-![](RackMultipart20231212-1-q2wx4i_html_6675cdf7b510a702.png) ![Shape4](RackMultipart20231212-1-q2wx4i_html_303b4e8830bc8df9.gif)
-
-![](RackMultipart20231212-1-q2wx4i_html_15e9d03410fe874e.png)
 
 **Conclusiones**
 
