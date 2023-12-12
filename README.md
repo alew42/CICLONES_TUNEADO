@@ -279,3 +279,4 @@ Este código que elaboramos para el proyecto lee los datos proporcionados en el 
 **Conclusiones**
 
 El conocer la categoría de un ciclón puede ayudar a conocer el impacto que pude tener al tocar tierra, la creación del programa en colab nos ayuda a tener un resultado de manera más rápido de la categoría esto nos permite la manipulación eficiente de datos y facilita la automatización de tareas.
+![poster](https://github.com/alew42/CICLONES_TUNEADO/assets/152411306/49055594-d054-4523-9c4c-c8482c63af05)
