@@ -9,6 +9,7 @@
 
 
 **Resumen**
+
 En este proyecto se buscó resolver la problemática de clasificar una gran cantidad de datos sobre ciclones, con respecto a la velocidad de sus vientos.
 
 Estos datos fueron tomados entre los años 2020 a 2023 donde se recaudaron 101 datos que fueron clasificados por un programa creado con anterioridad para resolver esta problemática.
