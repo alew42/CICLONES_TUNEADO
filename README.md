@@ -2,10 +2,7 @@
 **FACULTAD**** DE INGENIERIA CIVIL**
 <br>**INGENIERO**** TOPOGRAFO ****GEOMATICO**
 <br>**"categoría de los ciclones en los últimos 3 años basada en la velocidad de sus vientos****"**
-<br>**Autores** :
-<br>Hernán Córdova Araiza
-<br>Rene Antonio Alfaro Ríos
-<br>Edgar Oswaldo Sebastián López
+<br>**Autor** :
 <br>**Alejandra Atanacio Mancilla**
 <br> **Grado y**** Grupo**: 3ºB
 <br>**Asesor** :Sebastián Gonzales Zepeda
