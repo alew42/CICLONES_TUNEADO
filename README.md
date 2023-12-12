@@ -1,23 +1,14 @@
 # CICLONES_TUNEADO
 **FACULTAD**** DE INGENIERIA CIVIL**
-
-**INGENIERO**** TOPOGRAFO ****GEOMATICO**
-
-**"categoría de los ciclones en los últimos 3 años basada en la velocidad de sus vientos****"**
-
-**Maestro** :Sebastián Gonzales Zepeda
-
-**Autores** :
-
-Hernán Córdova Araiza
-
-Rene Antonio Alfaro Ríos
-
-Edgar Oswaldo Sebastián López
-
-**Alejandra Atanacio Mancilla**
-
-**Grado y**** Grupo**: 3ºB
+<br>**INGENIERO**** TOPOGRAFO ****GEOMATICO**
+<br>**"categoría de los ciclones en los últimos 3 años basada en la velocidad de sus vientos****"**
+<br>**Autores** :
+<br>Hernán Córdova Araiza
+<br>Rene Antonio Alfaro Ríos
+<br>Edgar Oswaldo Sebastián López
+<br>**Alejandra Atanacio Mancilla**
+<br> **Grado y**** Grupo**: 3ºB
+<br>**Asesor** :Sebastián Gonzales Zepeda
 
 **Abstrac**
 
